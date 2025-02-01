@@ -4,7 +4,7 @@ Version: 0.1.0
 Authors@R: 
     person("Francis", "Windram", , "francis.windram17@imperial.ac.uk", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-2129-826X"))
-Description: Massive aids in conversions and inference of biological mass,
+Description: Massive aids in conversions and inference of biological mass.
 License: GPL (>= 3)
 Encoding: UTF-8
 RoxygenNote: 7.3.2
@@ -13,8 +13,7 @@ LazyData: true
 URL: https://github.com/fwimp/massive, https://fwimp.github.io/massive/
 BugReports: https://github.com/fwimp/massive/issues
 Imports: 
-    cli,
-    rlang
+    cli
 Suggests: 
     knitr,
     parsermd,

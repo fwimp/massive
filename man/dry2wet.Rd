@@ -8,6 +8,8 @@ dry2wet(dry, fctr = 5)
 }
 \arguments{
 \item{dry}{A vector of dry masses in kg}
+
+\item{fctr}{a factor between 3 and 10 to use in the conversion (as Peters specifies a range of possible conversions).}
 }
 \value{
 The equivalent wet mass values in kg
@@ -21,7 +23,7 @@ v
 dry2wet(v)
 }
 \references{
-Peters, R.H. (1983) The Ecological Implications of Body Size. Cambridge: Cambridge University Press (Cambridge Studies in Ecology), pp. 231–296. \link{https://doi.org/10.1017/CBO9780511608551}, Appendix Ia
+Peters, R.H. (1983) The Ecological Implications of Body Size. Cambridge: Cambridge University Press (Cambridge Studies in Ecology), pp. 231–296. \url{https://doi.org/10.1017/CBO9780511608551}, Appendix Ia
 }
 \author{
 Francis Windram
