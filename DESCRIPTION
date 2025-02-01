@@ -1,20 +1,27 @@
 Package: massive
-Type: Package
 Title: Massive: Mass Conversion and Inference
 Version: 0.1.0
 Authors@R: 
     person("Francis", "Windram", , "francis.windram17@imperial.ac.uk", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-2129-826X"))
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Massive aids in conversions and inference of biological mass,
 License: GPL (>= 3)
 Encoding: UTF-8
+RoxygenNote: 7.3.2
+Roxygen: list(markdown = TRUE)
 LazyData: true
+URL: https://github.com/fwimp/massive, https://fwimp.github.io/massive/
+BugReports: https://github.com/fwimp/massive/issues
+Imports: 
+    cli,
+    rlang
 Suggests: 
+    knitr,
+    parsermd,
+    rmarkdown,
     testthat (>= 3.0.0)
+VignetteBuilder: knitr
 Depends: 
     R (>= 4.0)
 Config/testthat/edition: 3
 Config/testthat/parallel: true
-URL: https://github.com/fwimp/massive
-BugReports: https://github.com/fwimp/massive/issues

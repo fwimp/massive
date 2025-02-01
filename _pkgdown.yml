@@ -1,0 +1,9 @@
+url: https://fwimp.github.io/massive/
+template:
+  bootstrap: 5
+  light-switch: true
+reference:
+- title: Base Conversions
+  desc: Functions for converting between basic values.
+- contents:
+  - has_concept("converter")
