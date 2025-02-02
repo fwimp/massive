@@ -1,7 +1,7 @@
 #' @title Convert wet weight to approximate energy content
 #' @description This performs a simple conversion of wet weight to energy via Peters' approximate conversion.
 #'
-#' @param dry A vector of wet masses (in kg)
+#' @param wet A vector of wet masses (in kg)
 #'
 #' @author Francis Windram
 #' @return The equivalent energy in Joules
@@ -16,6 +16,6 @@
 #' @export
 #'
 
-wet2j <- function(dry) {
-  return(dry * 7e6)
+wet2j <- function(wet) {
+  return(wet * 7e6)
 }

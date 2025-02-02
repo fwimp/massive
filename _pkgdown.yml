@@ -2,6 +2,8 @@ url: https://fwimp.github.io/massive/
 template:
   bootstrap: 5
   light-switch: true
+  bslib:
+    primary: "#d02f3a"
 reference:
 - title: Base Conversions
   desc: Functions for converting between basic values.

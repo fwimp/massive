@@ -2,4 +2,5 @@
 
 export(dry2j)
 export(dry2wet)
+export(wet2dry)
 export(wet2j)

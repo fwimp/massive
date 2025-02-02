@@ -4,10 +4,10 @@
 \alias{wet2j}
 \title{Convert wet weight to approximate energy content}
 \usage{
-wet2j(dry)
+wet2j(wet)
 }
 \arguments{
-\item{dry}{A vector of wet masses (in kg)}
+\item{wet}{A vector of wet masses (in kg)}
 }
 \value{
 The equivalent energy in Joules
