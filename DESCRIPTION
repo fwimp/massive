@@ -1,6 +1,6 @@
 Package: massive
 Title: Massive: Mass Conversion and Inference
-Version: 0.1.0
+Version: 0.0.1.9000
 Authors@R: 
     person("Francis", "Windram", , "francis.windram17@imperial.ac.uk", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0002-2129-826X"))

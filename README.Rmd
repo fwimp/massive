@@ -34,7 +34,7 @@ version <- gsub('-', '.', version)
 [![R-CMD-check](https://github.com/fwimp/massive/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/fwimp/massive/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-`massive` helps you convert & infer biological mass values.
+`massive` helps you convert & infer biological mass values. It is currently in very early development so major changes to the API may occur without warning.
 
 ## Installation
 
