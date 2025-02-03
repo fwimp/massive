@@ -233,7 +233,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="456"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g14">
     <sodipodi:guide
        position="-36.42578,225.63789"
        orientation="0,198.425"
@@ -316,7 +316,7 @@
        d="m 98.925781,27.212891 -62.5,36 v 71.999999 l 62.5,36 62.499999,-36 V 63.212891 Z" />
     <path
        id="path8"
-       style="display:inline;fill:#6400fb;fill-opacity:1"
+       style="display:none;fill:#6400fb;fill-opacity:1"
        inkscape:label="innerhexpurple"
        d="m 98.925781,27.212891 -62.5,36 v 71.999999 l 62.5,36 62.499999,-36 V 63.212891 Z" />
     <path
